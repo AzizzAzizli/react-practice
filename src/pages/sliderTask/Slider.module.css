@@ -1,0 +1,17 @@
+.margin{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+
+    align-items: center;
+}
+.btn{
+    height: fit-content;
+    background-color: #fe7948;
+    border:none;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 10px;
+}

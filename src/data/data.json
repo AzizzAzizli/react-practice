@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Apple","price": 0.99, "stockCount": 10,"color": "red" },
+  { "id": 2, "name": "Pear","price": 0.79 ,"stockCount": 5 ,"color": "purple"  },
+  { "id": 3, "name": "Orange", "price": 1.19 ,"stockCount": 15 ,"color": "orange"  },
+  { "id": 4, "name": "Banana","price": 1.19 ,"stockCount": 7,"color": "yellow"  },
+  { "id": 5, "name": "Strawberry","price": 2.49,"stockCount": 8  ,"color": "darkblue"  }
+]
