@@ -1,11 +1,11 @@
 import "./App.css";
-// import { CardTask } from "./pages/cardTask/CardTask";
+import { CardTask } from "./pages/cardTask/CardTask";
 import { SliderTask } from "./pages/sliderTask/SliderTask";
 
 function App() {
   return (
     <>
-      {/* <CardTask /> */}
+      <CardTask />
       <SliderTask/>
     </>
   );
